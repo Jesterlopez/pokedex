@@ -18,79 +18,79 @@ const randomNumber = (min, max) => {
 
 const typeImgData = [{
         name: 'normal',
-        url: '/img/type/normal.svg'
+        url: '..docs/img/type/normal.svg'
     },
     {
         name: 'dark',
-        url: '/img/type/dark.svg'
+        url: '..docs/img/type/dark.svg'
     },
     {
         name: 'dragon',
-        url: '/img/type/dragon.svg'
+        url: '..docs/img/type/dragon.svg'
     },
     {
         name: 'bug',
-        url: '/img/type/bug.svg'
+        url: '..docs/img/type/bug.svg'
     },
     {
         name: 'electric',
-        url: '/img/type/electric.svg'
+        url: '..docs/img/type/electric.svg'
     },
     {
         name: 'fairy',
-        url: '/img/type/fairy.svg'
+        url: '..docs/img/type/fairy.svg'
     },
     {
         name: 'fighting',
-        url: '/img/type/fighting.svg'
+        url: '..docs/img/type/fighting.svg'
     },
     {
         name: 'fire',
-        url: '/img/type/fire.svg'
+        url: '..docs/img/type/fire.svg'
     },
     {
         name: 'flying',
-        url: '/img/type/flying.svg'
+        url: '..docs/img/type/flying.svg'
     },
     {
         name: 'ghost',
-        url: '/img/type/ghost.svg'
+        url: '..docs/img/type/ghost.svg'
     },
     {
         name: 'ground',
-        url: '/img/type/ground.svg'
+        url: '..docs/img/type/ground.svg'
     },
     {
         name: 'grass',
-        url: '/img/type/grass.svg'
+        url: '..docs/img/type/grass.svg'
     },
     {
         name: 'ice',
-        url: '/img/type/ice.svg'
+        url: '..docs/img/type/ice.svg'
     },
     {
         name: 'normal',
-        url: '/img/type/normal.svg'
+        url: '..docs/img/type/normal.svg'
     },
     {
         name: 'poison',
-        url: '/img/type/poison.svg'
+        url: '..docs/img/type/poison.svg'
     },
     {
         name: 'psychic',
-        url: '/img/type/psychic.svg'
+        url: '..docs/img/type/psychic.svg'
     },
     {
         name: 'rock',
-        url: '/img/type/rock.svg'
+        url: '..docs/img/type/rock.svg'
     },
     {
         name: 'steel',
-        url: '/img/type/steel.svg'
+        url: '..docs/img/type/steel.svg'
     },
     {
         name: 'water',
-        url: '/img/type/water.svg'
+        url: '..docs/img/type/water.svg'
     }
 ]
 
