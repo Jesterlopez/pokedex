@@ -18,79 +18,79 @@ const randomNumber = (min, max) => {
 
 const typeImgData = [{
         name: 'normal',
-        url: '..docs/img/type/normal.svg'
+        url: '../docs/img/type/normal.svg'
     },
     {
         name: 'dark',
-        url: '..docs/img/type/dark.svg'
+        url: '../docs/img/type/dark.svg'
     },
     {
         name: 'dragon',
-        url: '..docs/img/type/dragon.svg'
+        url: '../docs/img/type/dragon.svg'
     },
     {
         name: 'bug',
-        url: '..docs/img/type/bug.svg'
+        url: '../docs/img/type/bug.svg'
     },
     {
         name: 'electric',
-        url: '..docs/img/type/electric.svg'
+        url: '../docs/img/type/electric.svg'
     },
     {
         name: 'fairy',
-        url: '..docs/img/type/fairy.svg'
+        url: '../docs/img/type/fairy.svg'
     },
     {
         name: 'fighting',
-        url: '..docs/img/type/fighting.svg'
+        url: '../docs/img/type/fighting.svg'
     },
     {
         name: 'fire',
-        url: '..docs/img/type/fire.svg'
+        url: '../docs/img/type/fire.svg'
     },
     {
         name: 'flying',
-        url: '..docs/img/type/flying.svg'
+        url: '../docs/img/type/flying.svg'
     },
     {
         name: 'ghost',
-        url: '..docs/img/type/ghost.svg'
+        url: '../docs/img/type/ghost.svg'
     },
     {
         name: 'ground',
-        url: '..docs/img/type/ground.svg'
+        url: '../docs/img/type/ground.svg'
     },
     {
         name: 'grass',
-        url: '..docs/img/type/grass.svg'
+        url: '../docs/img/type/grass.svg'
     },
     {
         name: 'ice',
-        url: '..docs/img/type/ice.svg'
+        url: '../docs/img/type/ice.svg'
     },
     {
         name: 'normal',
-        url: '..docs/img/type/normal.svg'
+        url: '../docs/img/type/normal.svg'
     },
     {
         name: 'poison',
-        url: '..docs/img/type/poison.svg'
+        url: '../docs/img/type/poison.svg'
     },
     {
         name: 'psychic',
-        url: '..docs/img/type/psychic.svg'
+        url: '../docs/img/type/psychic.svg'
     },
     {
         name: 'rock',
-        url: '..docs/img/type/rock.svg'
+        url: '../docs/img/type/rock.svg'
     },
     {
         name: 'steel',
-        url: '..docs/img/type/steel.svg'
+        url: '../docs/img/type/steel.svg'
     },
     {
         name: 'water',
-        url: '..docs/img/type/water.svg'
+        url: '../docs/img/type/water.svg'
     }
 ]
 
