@@ -18,79 +18,79 @@ const randomNumber = (min, max) => {
 
 const typeImgData = [{
         name: 'normal',
-        url: 'pokedex/img/type/normal.svg'
+        url: '/img/type/normal.svg'
     },
     {
         name: 'dark',
-        url: 'pokedex/img/type/dark.svg'
+        url: '/img/type/dark.svg'
     },
     {
         name: 'dragon',
-        url: 'pokedex/img/type/dragon.svg'
+        url: '/img/type/dragon.svg'
     },
     {
         name: 'bug',
-        url: 'pokedex/img/type/bug.svg'
+        url: '/img/type/bug.svg'
     },
     {
         name: 'electric',
-        url: 'pokedex/img/type/electric.svg'
+        url: '/img/type/electric.svg'
     },
     {
         name: 'fairy',
-        url: 'pokedex/img/type/fairy.svg'
+        url: '/img/type/fairy.svg'
     },
     {
         name: 'fighting',
-        url: 'pokedex/img/type/fighting.svg'
+        url: '/img/type/fighting.svg'
     },
     {
         name: 'fire',
-        url: 'pokedex/img/type/fire.svg'
+        url: '/img/type/fire.svg'
     },
     {
         name: 'flying',
-        url: 'pokedex/img/type/flying.svg'
+        url: '/img/type/flying.svg'
     },
     {
         name: 'ghost',
-        url: 'pokedex/img/type/ghost.svg'
+        url: '/img/type/ghost.svg'
     },
     {
         name: 'ground',
-        url: 'pokedex/img/type/ground.svg'
+        url: '/img/type/ground.svg'
     },
     {
         name: 'grass',
-        url: 'pokedex/img/type/grass.svg'
+        url: '/img/type/grass.svg'
     },
     {
         name: 'ice',
-        url: 'pokedex/img/type/ice.svg'
+        url: '/img/type/ice.svg'
     },
     {
         name: 'normal',
-        url: 'pokedex/img/type/normal.svg'
+        url: '/img/type/normal.svg'
     },
     {
         name: 'poison',
-        url: 'pokedex/img/type/poison.svg'
+        url: '/img/type/poison.svg'
     },
     {
         name: 'psychic',
-        url: 'pokedex/img/type/psychic.svg'
+        url: '/img/type/psychic.svg'
     },
     {
         name: 'rock',
-        url: 'pokedex/img/type/rock.svg'
+        url: '/img/type/rock.svg'
     },
     {
         name: 'steel',
-        url: 'pokedex/img/type/steel.svg'
+        url: '/img/type/steel.svg'
     },
     {
         name: 'water',
-        url: 'pokedex/img/type/water.svg'
+        url: '/img/type/water.svg'
     }
 ]
 
