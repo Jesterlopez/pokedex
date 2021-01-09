@@ -148,7 +148,7 @@ const fetchData = async(idPokemon) => {
 
 
         showPokemon(pokemonData, statPokemonData, urlImg)
-        console.log(data)
+            // console.log(data)
 
 
         //obtener tipo de pokemon de la Api
