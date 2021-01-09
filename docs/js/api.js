@@ -131,7 +131,7 @@ const fetchData = async(idPokemon) => {
             return img.name === pokemonData.types.type.name;
         }
 
-        console.log(pokemonData.types.type.name)
+        // console.log(pokemonData.types.type.name)
         const typeName = typeImgData.find(value)
         const urlImg = typeName.url;
 
