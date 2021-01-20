@@ -165,7 +165,7 @@ const fetchData = async(idPokemon) => {
 }
 
 
-const showPokemon = (pokemon, stat, urlImg) => {
+const showPokemon = (pokemon, stat, urlImg, id) => {
     // console.log(pokemon)
 
     const content = document.getElementById('template-content').content;
@@ -198,6 +198,7 @@ const showPokemon = (pokemon, stat, urlImg) => {
     clone.querySelector('.info__pokemon-type').innerHTML = `
     <img src="${urlImg}" alt="">
     `;
+    // const buttonSearch = clone.querySelector('#button-search');
 
     const buttonGenerate = clone.querySelector('#button-generate');
 
@@ -206,10 +207,17 @@ const showPokemon = (pokemon, stat, urlImg) => {
     fragment.appendChild(clone);
     containerContent.appendChild(fragment);
 
+    // buttonSearch.addEventListener('focusout', (e) => {
+    //     // return e.target.value
+    //     console.log(e.target.value)
+    //     location.reload()
+    // })
 
     buttonGenerate.addEventListener('click', () => {
         location.reload();
     })
+
+
 
     // console.log(stat)
 
@@ -217,7 +225,7 @@ const showPokemon = (pokemon, stat, urlImg) => {
     const barNumber = document.querySelectorAll('#progress-bar-number');
 
 
-    //styles css carg
+    //styles css load
     setTimeout(() => {
         const values = stat.map((x) => {
             return x + '%'
