@@ -4,17 +4,20 @@
   font-family: 'Roboto Slab', serif;
 }
 
+body {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(36, 36, 62, 0.37)), color-stop(rgba(48, 43, 99, 0.349)), to(rgba(15, 12, 41, 0.322))), url("../img/bgBall.jpg");
+  background-image: linear-gradient(to bottom, rgba(36, 36, 62, 0.37), rgba(48, 43, 99, 0.349), rgba(15, 12, 41, 0.322)), url("../img/bgBall.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 :root {
   --widthImg: 300px;
   --url: '../img/bgBall.jpg';
 }
 
 .container-fluid {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(36, 36, 62, 0.37)), color-stop(rgba(48, 43, 99, 0.349)), to(rgba(15, 12, 41, 0.322))), url("../img/bgBall.jpg");
-  background-image: linear-gradient(to bottom, rgba(36, 36, 62, 0.37), rgba(48, 43, 99, 0.349), rgba(15, 12, 41, 0.322)), url("../img/bgBall.jpg");
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
   width: 100vw;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
