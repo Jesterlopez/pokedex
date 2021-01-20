@@ -478,6 +478,9 @@
   .pokemon-stats-right {
     min-width: 90% !important;
   }
+  .pokemon-stats-right {
+    height: 310px !important;
+  }
 }
 
 @media (max-width: 380px) {
@@ -502,6 +505,7 @@
     -webkit-box-ordinal-group: 2;
         -ms-flex-order: 1;
             order: 1;
+    height: 100vh;
   }
   .col-right {
     -webkit-box-ordinal-group: 4;
@@ -509,6 +513,10 @@
             order: 3;
     margin-bottom: 20px;
     padding-bottom: 50px;
+  }
+  .info__general {
+    position: absolute;
+    bottom: 50px;
   }
   .pokemon-container-img {
     height: 335px !important;
